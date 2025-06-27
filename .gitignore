@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore OS or IDE-specific files
+.DS_Store
+.vscode/
+node_modules/
+.env
+dist/
